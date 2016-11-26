@@ -1,9 +1,6 @@
 # FirstAid 
 <img src="FirstAid_1st_APP_ICON.png" height=100em>
 
-**DON'T TRUST ON THIS APP IN REAL EMERGENCIES BEFORE THE OFFICIAL RELEASE. WE CAN NOT GUARANTEE THAT THE CONTENT IS CORRECT**
+**DO NOT GIVE THIS APP FULL CONFIDENCE IN CASE OF REAL EMERGENCIES, ESPECIALLY BEFORE THE OFFICIAL RELEASE. WE CANNOT GUARANTEE THE CORRECTNESS OF ANY CONTENT. PLEASE USE IT AT YOUR OWN RISK!**
 
-We are ten pupils and one teacher to participate in an app programming project at school. For the next two years, we work on providing you the as best as possible First Aid App for Android.
-
-//TESTHallo
-
+We are ten pupils and one teacher being part of an app programming project at school. For the next two years, we are trying to provide you with one of the best first aid apps for Android.
