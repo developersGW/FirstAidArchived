@@ -1,5 +1,5 @@
 # FirstAid 
-<img src="FirstAid_1st_APP_ICON.png" height=100em><img src="FirstAid_2nd_APP_ICON.png" height=100em><img src="FirstAid_3rd_APP_ICON.png" height=100em>
+<img src="FirstAid_1st_APP_ICON.png" height=100em><img src="FirstAid_2nd_APP_ICON.png" height=100em>
 
 **DO NOT GIVE THIS APP FULL CONFIDENCE IN CASE OF REAL EMERGENCIES, ESPECIALLY BEFORE THE OFFICIAL RELEASE. WE CANNOT GUARANTEE THE CORRECTNESS OF ANY CONTENT. PLEASE USE IT AT YOUR OWN RISK!**
 
