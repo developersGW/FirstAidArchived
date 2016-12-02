@@ -3,15 +3,19 @@
 
 **DO NOT GIVE THIS APP FULL CONFIDENCE IN CASE OF REAL EMERGENCIES, ESPECIALLY BEFORE THE OFFICIAL RELEASE. WE CANNOT GUARANTEE THE CORRECTNESS OF ANY CONTENT. PLEASE USE IT AT YOUR OWN RISK!**
 
+T E A M :
 We are ten pupils and one teacher being part of an app programming project at school. For the next two years, we are trying to provide you with one of the best first aid apps for Android.
 
-Planned FEATURES are:
+
+Planned F E A T U R E S are:
+
 * find out the type of injury by just inputting the symptoms and the region of body
 * the app says you what to do
 * find defibrillators, hospitals and medicines using open street map
 * automatic emergency call from within the app
 
-LICENSE:
+
+L I C E N S E :
 
 Copyright 2016 developersGW
 
