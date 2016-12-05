@@ -23,7 +23,7 @@ Planned **FEATURES** are:
 
 **LICENSE**:
 
-Copyright 2016 developersGW
+Copyright © 2016 developersGW
 
 This file is part of FirstAid.
 
