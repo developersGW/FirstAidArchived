@@ -3,13 +3,13 @@
 
 **DO NOT GIVE THIS APP FULL CONFIDENCE IN CASE OF REAL EMERGENCIES, ESPECIALLY BEFORE THE OFFICIAL RELEASE. WE CANNOT GUARANTEE THE CORRECTNESS OF ANY CONTENT. PLEASE USE IT AT YOUR OWN RISK!**
 
-T E A M :
+**TEAM**:
 
 We are ten pupils and one teacher being part of an app programming project at school. For the next two years, we are trying to provide you with one of the best first aid apps for Android.
 
 ---
 
-Planned F E A T U R E S are:
+Planned **FEATURES** are:
 
 * find out the type of injury by just inputting the symptoms and the region of body
 * the app says you what to do
@@ -18,7 +18,7 @@ Planned F E A T U R E S are:
 
 ---
 
-L I C E N S E :
+**LICENSE**:
 
 Copyright 2016 developersGW
 
