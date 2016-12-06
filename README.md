@@ -1,4 +1,4 @@
-# AidFirst 
+# FirstAid 
 <img src="FirstAid_1st_APP_ICON.png" height=100em><img src="FirstAid_deep_APP_ICON.png" height=100em>
 
 ## DISCLAIMER
