@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Josua\\Desktop\\Apps\\Appprogramming\\FirstAid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Josua\\Desktop\\Apps\\Appprogramming\\FirstAid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Josua\\Desktop\\Apps\\Appprogramming\\FirstAid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\firstaid_icon.png",
+        "source": "C:\\Users\\Josua\\Desktop\\Apps\\Appprogramming\\FirstAid\\app\\src\\main\\res\\mipmap-mdpi\\firstaid_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Josua\\Desktop\\Apps\\FirstAid2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Josua\\Desktop\\Apps\\FirstAid2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
