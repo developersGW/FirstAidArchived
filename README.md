@@ -7,9 +7,12 @@ TEAM
 We are ten pupils and one teacher being part of an app programming project at school. For the next two years, we are trying to provide you with one of the best first aid apps for Android.
 ___
 LICENSE
+
 Copyright © 2016 developersGW
 
 Copyleft <img src="Copyleft.svg.png" height=12.5em> 2016 developersGW
+
+The licenses of additional files and libraries may differ.
 
 This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
