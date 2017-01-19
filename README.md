@@ -3,15 +3,23 @@
 
 **DO NOT GIVE THIS APP FULL CONFIDENCE IN CASE OF REAL EMERGENCIES, ESPECIALLY BEFORE THE OFFICIAL RELEASE. WE CANNOT GUARANTEE THE CORRECTNESS OF ANY CONTENT. PLEASE USE IT AT YOUR OWN RISK!**
 
+
+
 ##TEAM
+
 We are ten pupils and one teacher being part of an app programming project at school. For the next two years, we are trying to provide you with one of the best first aid apps for Android.
 
+
+
 ##FUNCTIONS
+
 We plan to implement following functions:
 * tell the app where the injury is and it says you which sort of hurt it is and what to do
 * call the right emrency number, for example the rescue service or the poison emergency call
 * find near defibrillators or emergency institutions and let guide you to them
 * store peronal emrgency information, like the phone number of your family doctor or the medicaments you take
+
+
 
 
 ##LICENSE
