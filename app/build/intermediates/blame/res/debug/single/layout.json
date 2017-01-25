@@ -96,6 +96,10 @@
         "source": "C:\\Users\\Josua\\Desktop\\Apps\\Appprogramming\\FirstAid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
+        "merged": "C:\\Users\\Josua\\Desktop\\Apps\\Appprogramming\\FirstAid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_changelog.xml",
+        "source": "C:\\Users\\Josua\\Desktop\\Apps\\Appprogramming\\FirstAid\\app\\src\\main\\res\\layout\\dialog_changelog.xml"
+    },
+    {
         "merged": "C:\\Users\\Josua\\Desktop\\Apps\\Appprogramming\\FirstAid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
         "source": "C:\\Users\\Josua\\Desktop\\Apps\\Appprogramming\\FirstAid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
     },

@@ -3,4 +3,10 @@
     <string name="action_map">Karte</string>
     <string name="action_settings">Einstellungen</string>
     <string name="title_activity_map">MapActivity</string>
+    <string name="signin">Test123</string>
+    <string name="cancel">Cancel</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="ok">OK</string>
+    <string name="viewongithub">View on GItHub</string>
 </resources>

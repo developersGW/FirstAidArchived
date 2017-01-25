@@ -237,6 +237,7 @@
     <item name="action_bar_spinner" type="id"/>
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
+    <item name="dialogButtonOK" type="id">dialogButtonOK</item>
     <item name="home" type="id"/>
     <item name="item_touch_helper_previous_elevation" type="id"/>
     <item name="progress_circular" type="id"/>
@@ -273,9 +274,15 @@
     <string name="action_settings">Einstellungen</string>
     <string name="app_name">FirstAid</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="cancel">Cancel</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+    <string name="ok">OK</string>
+    <string name="password">Password</string>
+    <string name="signin">Test123</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="title_activity_map">MapActivity</string>
+    <string name="username">Username</string>
+    <string name="viewongithub">View on GItHub</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
