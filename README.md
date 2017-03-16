@@ -5,13 +5,13 @@
 
 
 
-##TEAM
+## TEAM
 
 We are ten pupils and one teacher being part of an app programming project at school. For the next two years, we are trying to provide you with one of the best first aid apps for Android.
 
 
 
-##FUNCTIONS
+## FUNCTIONS
 
 We plan to implement following functions:
 * tell the app where the injury is and it says you which sort of hurt it is and what to do
@@ -22,7 +22,7 @@ We plan to implement following functions:
 
 
 
-##LICENSE
+## LICENSE
 
 Copyright © 2016 developersGW
 
