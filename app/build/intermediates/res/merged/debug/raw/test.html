@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <title></title>
+    <meta content="">
+    <style></style>
+<!--    <script src="jquery.min.js"></script>-->
+    <meta charset="UTF8"> 
+  </head>
+  <body>
+  <h1>Changelog</h1>
+  <div id="test"></div>
+  <h1QWANT</body>h1>
+  <div id="test2"></div>
+  <div id="changelog"></div>
+  <script src="marked.js"></script>
+  <script>
+  document.getElementById("test").innerHTML="Test bestanden! JS ist aktiviert!";
+//   jQuery.get('changelog.md', function(data) {
+//    document.getElementById("changelog").innerHTML=marked(data);
+// });
+  function GET(theUrl)
+  {
+    var xmlHttp = null;
+    xmlHttp = new XMLHttpRequest();
+    xmlHttp.open( "GET", theUrl, false );
+    xmlHttp.send( null );
+    return xmlHttp.responseText;
+  }
+$.get('changelog.md', function(data) {
+  document.getElementById("changelog").innerHTML=marked(data);
+});
+  </script>
+  </body>
+</html>

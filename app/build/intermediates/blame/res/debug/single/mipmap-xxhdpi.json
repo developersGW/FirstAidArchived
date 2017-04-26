@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/josua/AndroidStudio/FirstAid3/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/josua/AndroidStudio/FirstAid3/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/josua/AndroidStudio/FirstAid3/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/firstaid_icon.png",
+        "source": "/home/josua/AndroidStudio/FirstAid3/app/src/main/res/mipmap-xxhdpi/firstaid_icon.png"
+    }
+]
