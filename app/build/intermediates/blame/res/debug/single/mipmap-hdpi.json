@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/home/developersgw/AndroidStudioProjects/FirstAid/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/developersgw/AndroidStudioProjects/FirstAid/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/josua/AndroidStudio/FirstAid3/app/build/intermediates/res/merged/debug/mipmap-hdpi/firstaid_icon.png",
         "source": "/home/josua/AndroidStudio/FirstAid3/app/src/main/res/mipmap-hdpi/firstaid_icon.png"
+    },
+    {
+        "merged": "/home/developersgw/AndroidStudioProjects/FirstAid/app/build/intermediates/res/merged/debug/mipmap-hdpi/firstaid_icon.png",
+        "source": "/home/developersgw/AndroidStudioProjects/FirstAid/app/src/main/res/mipmap-hdpi/firstaid_icon.png"
     },
     {
         "merged": "/home/josua/AndroidStudio/FirstAid3/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",

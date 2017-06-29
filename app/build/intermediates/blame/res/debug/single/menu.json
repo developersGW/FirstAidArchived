@@ -2,5 +2,9 @@
     {
         "merged": "/home/josua/AndroidStudio/FirstAid3/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
         "source": "/home/josua/AndroidStudio/FirstAid3/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/developersgw/AndroidStudioProjects/FirstAid/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/developersgw/AndroidStudioProjects/FirstAid/app/src/main/res/menu/menu_main.xml"
     }
 ]

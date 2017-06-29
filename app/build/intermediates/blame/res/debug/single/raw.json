@@ -4,12 +4,28 @@
         "source": "/home/josua/AndroidStudio/FirstAid3/app/src/main/res/raw/jquery.js"
     },
     {
+        "merged": "/home/developersgw/AndroidStudioProjects/FirstAid/app/build/intermediates/res/merged/debug/raw/jquery.js",
+        "source": "/home/developersgw/AndroidStudioProjects/FirstAid/app/src/main/res/raw/jquery.js"
+    },
+    {
         "merged": "/home/josua/AndroidStudio/FirstAid3/app/build/intermediates/res/merged/debug/raw/test.html",
         "source": "/home/josua/AndroidStudio/FirstAid3/app/src/main/res/raw/test.html"
     },
     {
         "merged": "/home/josua/AndroidStudio/FirstAid3/app/build/intermediates/res/merged/debug/raw/changelog.md",
         "source": "/home/josua/AndroidStudio/FirstAid3/app/src/main/res/raw/changelog.md"
+    },
+    {
+        "merged": "/home/developersgw/AndroidStudioProjects/FirstAid/app/build/intermediates/res/merged/debug/raw/changelog.md",
+        "source": "/home/developersgw/AndroidStudioProjects/FirstAid/app/src/main/res/raw/changelog.md"
+    },
+    {
+        "merged": "/home/developersgw/AndroidStudioProjects/FirstAid/app/build/intermediates/res/merged/debug/raw/test.html",
+        "source": "/home/developersgw/AndroidStudioProjects/FirstAid/app/src/main/res/raw/test.html"
+    },
+    {
+        "merged": "/home/developersgw/AndroidStudioProjects/FirstAid/app/build/intermediates/res/merged/debug/raw/marked.js",
+        "source": "/home/developersgw/AndroidStudioProjects/FirstAid/app/src/main/res/raw/marked.js"
     },
     {
         "merged": "/home/josua/AndroidStudio/FirstAid3/app/build/intermediates/res/merged/debug/raw/marked.js",
