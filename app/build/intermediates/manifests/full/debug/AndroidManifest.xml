@@ -12,6 +12,10 @@
 
     <uses-feature android:name="android.hardware.location.gps" />
 
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/firstaid_icon"
@@ -29,6 +33,15 @@
             android:name="developersgw.firstaid.MapActivity"
             android:label="@string/title_activity_map"
             android:theme="@style/AppTheme" />
+        <activity
+            android:name="developersgw.firstaid.BodyActivity"
+            android:label="@string/title_activity_body"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="developersgw.firstaid.TutorialActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_tutorial"
+            android:theme="@style/FullscreenTheme" />
     </application>
 
 </manifest>

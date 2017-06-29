@@ -9,4 +9,9 @@
     <string name="password">Password</string>
     <string name="ok">OK</string>
     <string name="viewongithub">View on GItHub</string>
+    <string name="title_activity_body">BodyActivity</string>
+
+    <string name="title_activity_tutorial">TutorialActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
